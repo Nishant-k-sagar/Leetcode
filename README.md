@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0070-climbing-stairs) |
+| [0670-maximum-swap](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0670-maximum-swap) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Greedy
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->
