@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0118-pascals-triangle) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
@@ -89,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
