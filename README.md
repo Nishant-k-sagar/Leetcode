@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0058-length-of-last-word) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1894-merge-strings-alternately](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## String Matching
 |  |
