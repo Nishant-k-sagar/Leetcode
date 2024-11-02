@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0058-length-of-last-word) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1894-merge-strings-alternately](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2580-circular-sentence](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2580-circular-sentence) |
 ## String Matching
 |  |
 | ------- |
