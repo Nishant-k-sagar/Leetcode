@@ -1,19 +1,13 @@
 class Solution {
 public:
     bool isCircularSentence(string sentence) {
-        int n= sentence.length();
 
-        char a = sentence[0];
-        char b = sentence[n-1];
-        char c = sentence[0];
-        if(a!=b)return false;
+        if(sentence[0]!=sentence[sentence.length()-1])return false;
 
-        for(int i=1; i<n-1; i++){
+        for(int i=1; i<sentence.length()-1; i++){
             if(sentence[i+1]==' '){
-                a = sentence[i];
-                b = sentence[i+2];
+            if(sentence[i]!=sentence[i+2]) return false;
             }
-            if(a!=b)return false;
         }
     return true;
     }
