@@ -15,7 +15,8 @@ class Solution {
         if(l==nullptr && r== nullptr)return true;
         if(l==nullptr || r==nullptr)return false;
 
-        return (l->val==r->val) && checker(l->left, r->right) && checker(l->right, r->left);
+        if(l->val!=r->val)return false;
+        return checker(l->left, r->right) && checker(l->right, r->left);
 
     }
 public:
