@@ -15,7 +15,7 @@ public:
     TreeNode* bst(vector<int> &nums, int low, int high){
         if(low>high)return nullptr;
 
-        int mid = low+(high-low)/2;
+        int mid = high-(high-low)/2;
         TreeNode* root = new TreeNode(nums[mid]);
 
         root->left = bst(nums, low, mid-1);
