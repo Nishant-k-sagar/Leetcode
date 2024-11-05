@@ -1,6 +1,3 @@
-#include <cctype> // for isalpha(), tolower()
-#include <algorithm> // for reverse()
-
 class Solution {
 public:
     bool isPalindrome(string s) {
