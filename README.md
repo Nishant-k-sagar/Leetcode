@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Two Pointers
 |  |
@@ -143,5 +144,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+## Hash Table
+|  |
+| ------- |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+## Counting
+|  |
+| ------- |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 <!---LeetCode Topics End-->
