@@ -1,28 +1,28 @@
-
 class Solution {
 public:
-     bool checkConditions(const vector<int>& subarray) {
-        for (int i = 1; i < subarray.size(); i++) {
-            if (subarray[i] != subarray[i - 1] + 1) {
-                return false;
-            }
+
+    bool checker(vector<int> &v){
+        int m = v.size();
+        for(int i=1; i<m; i++){
+            if(v[i-1]+1!=v[i])return false;
         }
         return true;
     }
 
     vector<int> resultsArray(vector<int>& nums, int k) {
         int n = nums.size();
-        vector<int> results;
+        vector<int>res;
 
-        for (int i = 0; i <= n - k; i++) {
-            vector<int> subarray(nums.begin() + i, nums.begin() + i + k);
-            if (checkConditions(subarray)) {
-                results.push_back(*max_element(subarray.begin(), subarray.end()));
-            } else {
-                results.push_back(-1);
+        for(int i=0; i<=n-k; i++){
+            vector<int> subarr(nums.begin()+i, nums.begin()+k+i);
+
+            if(checker(subarr)){
+                res.push_back(*max_element(subarr.begin(), subarr.end()));
+            }
+            else{
+                res.push_back(-1);
             }
         }
-
-        return results;
+        return res;
     }
 };
