@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0202-happy-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1894-merge-strings-alternately](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0202-happy-number) |
 | [0670-maximum-swap](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0670-maximum-swap) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2716-prime-subtraction-operation](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Counting
