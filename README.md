@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
 |  |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3394-minimum-array-end](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3394-minimum-array-end) |
 ## Hash Table
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Number Theory
 |  |
