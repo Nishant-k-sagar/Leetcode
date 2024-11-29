@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0787-sliding-puzzle](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
