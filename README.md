@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0787-sliding-puzzle](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0283-move-zeroes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
