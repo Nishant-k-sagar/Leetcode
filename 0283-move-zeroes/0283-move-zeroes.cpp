@@ -4,11 +4,15 @@ public:
         int n = nums.size();
 
         int left = 0;
-        for(int right = 0; right<n; right++){
+
+        int right = 0;
+        
+        while(right<n){
             if(nums[right]!=0){
                 swap(nums[left], nums[right]);
                 left++;
             }
+            right++;
         }
     }
 };
