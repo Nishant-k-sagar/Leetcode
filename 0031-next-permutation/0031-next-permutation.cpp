@@ -25,9 +25,7 @@ public:
             }
         }
 
-        int temp = nums[idx1];
-        nums[idx1]=nums[idx2];
-        nums[idx2] = temp;
+        swap(nums[idx1], nums[idx2]);
         return;
     }
 };
