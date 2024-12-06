@@ -7,13 +7,17 @@ public:
         int cnt = 0;
         int sum = 0;
         while(i<=n){
-            if(myset.find(i) == myset.end()){
+            if(myset.find(i) != myset.end()){
+                i++;
+            }
+            
+            else{
                 if(sum+i<=maxSum){
                     cnt++;
                     sum = sum + i;
                 }
+                i++;
             }
-            i++;
         }
         return cnt;
     }
