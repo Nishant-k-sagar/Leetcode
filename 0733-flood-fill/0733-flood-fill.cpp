@@ -1,32 +1,33 @@
 class Solution {
+public:
+    vector<vector<int>> floodFill(vector<vector<int>>& img, int sr, int sc, int color) {
+        int iniColor = img[sr][sc];
 
-    private:
-    void dfs(int row, int col, vector<vector<int>>&ans, vector<vector<int>>&img, int color, vector<int> &delrow, vector<int> &delcol, int iniColor){
-        if(ans[row][col] == color)return;
-        ans[row][col] = color;
+        if(iniColor != color){
+            dfs(img, sr, sc, color, iniColor);
+        }
+        return img;
+    }
 
-        int n = img.size();
-        int m = img[0].size();
 
-        for(int i=0; i<4; i++){
-            int nrow = row + delrow[i];
-            int ncol = col + delcol[i];
+    public:
+    void dfs(vector<vector<int> > &img, int r, int c, int color, int iniColor){
+        if(img[r][c] == iniColor){
+            img[r][c] = color;
 
-            if(nrow>=0 && nrow<n && ncol >= 0 && ncol<m && ans[nrow][ncol] == iniColor){
-                dfs(nrow, ncol, ans, img, color, delrow, delcol, iniColor);
+            if(r>=1){
+                dfs(img, r-1, c, color, iniColor);
+            }
+            if(c>=1){
+                dfs(img, r, c-1, color, iniColor);
+            }
+            if(r+1< img.size()){
+                dfs(img, r+1, c, color, iniColor);
+            }
+            if(c+1< img[0].size()){
+                dfs(img, r, c+1,color, iniColor);
             }
         }
     }
 
-public:
-    vector<vector<int>> floodFill(vector<vector<int>>& img, int sr, int sc, int color) {
-        int iniColor = img[sr][sc];
-        vector<vector<int>> ans = img;
-
-        vector<int> delrow = {-1, 0, +1, 0};
-        vector<int> delcol = {0, +1, 0, -1};
-
-        dfs(sr, sc, ans, img, color, delrow, delcol, iniColor);
-        return ans;    
-    }
 };
