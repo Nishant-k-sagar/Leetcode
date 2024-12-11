@@ -1,28 +1,36 @@
 class Solution {
+
+    int binarySearch(vector<int> &nums, int target, int n){
+        int left = 0;
+        int right = n-1;
+
+        while(left<=right){
+            int mid = (left+right)/2;
+
+            if(nums[mid]<=target){
+                left = mid+1;
+            }
+            else{
+                right = mid-1;
+            }
+        }
+        return right;
+    }
 public:
     int maximumBeauty(vector<int>& nums, int k) {
-        int n= nums.size();
+        int n = nums.size();
 
-        vector<pair<int, int>>vec;
-
-        for(int i=0;i<n; i++){
-            vec.push_back({nums[i]-k, nums[i]+k});
-        }
-
-        sort(vec.begin(), vec.end());
-
-        deque<int> deq;
+        sort(nums.begin(), nums.end());
 
         int maxBeauty = 0;
 
-        for(pair<int, int> &p : vec){
-            while(!deq.empty() && deq.front()<p.first){
-                deq.pop_front();
-            }
+        for(int i=0; i<n; i++){
+            int x = nums[i];
+            int y = x + 2*k;
 
-            deq.push_back(p.second);
+            int j = binarySearch(nums, y, n);
 
-            maxBeauty = max(maxBeauty, (int)deq.size());
+            maxBeauty = max(maxBeauty, j-i+1);
         }
         return maxBeauty;
     }
