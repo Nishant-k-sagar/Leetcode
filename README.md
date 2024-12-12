@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0070-climbing-stairs) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0191-number-of-1-bits) |
 | [1940-maximum-xor-for-each-query](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
