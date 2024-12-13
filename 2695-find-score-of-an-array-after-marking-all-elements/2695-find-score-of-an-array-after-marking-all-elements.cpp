@@ -2,30 +2,37 @@ class Solution {
 public:
     long long findScore(vector<int>& nums) {
         int n = nums.size();
-        
-        long ans = 0;
-        vector<pair<int, int>>sorted(n);
+        long long ans=0;
+
+        vector<bool> marked(n, false);
+
+        auto cmp = [](pair<int, int> &pair1, pair<int, int> &pair2){
+            if(pair1.first != pair2.first)return pair1.first > pair2.first;
+            return pair1.second> pair2.second;
+        };
+
+        priority_queue<pair<int, int>, vector<pair<int, int>>, decltype(cmp)>heap(cmp);
 
         for(int i=0; i<n; i++){
-            sorted[i] = make_pair(nums[i], i);
+            heap.push(make_pair(nums[i], i));
         }
 
-        sort(sorted.begin(), sorted.end());
+        while(!heap.empty()){
+            pair<int, int> ele = heap.top();
 
-        vector<bool>marked(n, false);
+            heap.pop();
 
-        for(int i=0; i<n; i++){
-            int num = sorted[i].first;
-            int idx = sorted[i].second;
+            int num = ele.first;
+            int idx = ele.second;
 
             if(!marked[idx]){
-                ans = ans+num;
+                ans+=num;
                 marked[idx] = true;
 
-                if(idx>=1){
+                if(idx-1>=0){
                     marked[idx-1] = true;
                 }
-                if(idx<=n-1){
+                if(idx+1<n){
                     marked[idx+1] = true;
                 }
             }
