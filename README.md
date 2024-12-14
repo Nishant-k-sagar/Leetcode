@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3451-string-compression-iii](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3451-string-compression-iii) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## String Matching
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0670-maximum-swap) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Breadth-First Search
 |  |
 | ------- |
