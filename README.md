@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0200-number-of-islands) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0733-flood-fill) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Greedy
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0200-number-of-islands) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0787-sliding-puzzle) |
