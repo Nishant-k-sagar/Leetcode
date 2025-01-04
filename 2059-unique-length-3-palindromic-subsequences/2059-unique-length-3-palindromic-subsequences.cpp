@@ -3,7 +3,7 @@ public:
     int countPalindromicSubsequence(string s) {
         int n = s.length();
 
-        unordered_set<char>letters(s.begin(), s.end());
+        set<char>letters(s.begin(), s.end());
 
         int ans = 0;
 
@@ -19,7 +19,7 @@ public:
                     rt_idx = i;
                 }
             }
-            unordered_set<char> st;
+            set<char> st;
 
             for(int i=lt_idx+1; i<=rt_idx-1; i++){
                 st.insert(s[i]);
