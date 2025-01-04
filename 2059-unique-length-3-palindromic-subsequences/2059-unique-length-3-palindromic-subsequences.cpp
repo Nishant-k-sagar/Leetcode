@@ -3,20 +3,16 @@ public:
     int countPalindromicSubsequence(string s) {
         int n = s.length();
 
-        unordered_set<char>letters;
-
-        for(int i=0; i<n; i++){
-            letters.insert(s[i]);
-        }
+        unordered_set<char>letters(s.begin(), s.end());
 
         int ans = 0;
 
-        for(char letter:letters){
+        for(auto it:letters){
             int lt_idx = -1;
             int rt_idx = -1;
 
             for(int i=0; i<n; i++){
-                if(s[i] == letter){
+                if(s[i] == it){
                     if(lt_idx == -1){
                         lt_idx = i;
                     }
