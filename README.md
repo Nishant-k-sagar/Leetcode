@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0409-longest-palindrome) |
 | [0812-rotate-string](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0812-rotate-string) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1524-string-matching-in-an-array](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0409-longest-palindrome) |
 | [0670-maximum-swap](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
