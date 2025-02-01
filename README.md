@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0027-remove-element) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0191-number-of-1-bits) |
