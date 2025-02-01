@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0409-longest-palindrome) |
 | [0812-rotate-string](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0812-rotate-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1250-longest-common-subsequence](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1524-string-matching-in-an-array](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1250-longest-common-subsequence](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Memoization
 |  |
