@@ -16,7 +16,7 @@ public:
             if(s1[i]!=s2[i])cnt++;
         }
 
-        if(cnt==2 || cnt == 0)return true;
+        if(cnt < 3 && cnt%2==0)return true;
         else return false;
     }
 };
