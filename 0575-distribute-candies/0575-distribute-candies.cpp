@@ -1,14 +1,19 @@
 class Solution {
 public:
-    int distributeCandies(vector<int>& candyType) {
-        int n = candyType.size();
+    int distributeCandies(vector<int>& ct) {
+        int n = ct.size();
 
-        int eatOnly = (n/2);
-        set<int> diffTypes(candyType.begin(), candyType.end());
-        
-        int numDiffTypes = diffTypes.size();
+        sort(ct.begin(), ct.end());
 
-        if(eatOnly<numDiffTypes)return eatOnly;
-        else return numDiffTypes;
+        int half = n/2;
+
+        int cntUniq = 1;
+
+        for(int i=1; i<n; i++){
+            if(ct[i]!=ct[i-1])cntUniq++;
+        }
+
+        if(cntUniq<half)return cntUniq;
+        else return half;
     }
 };
