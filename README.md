@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2365-percentage-of-letter-in-string](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2580-circular-sentence](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
