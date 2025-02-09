@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1013-fibonacci-number) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2448-count-number-of-bad-pairs](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2716-prime-subtraction-operation](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0204-count-primes) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 ## Matrix
 |  |
 | ------- |
