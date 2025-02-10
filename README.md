@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2716-prime-subtraction-operation](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Breadth-First Search
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [3427-special-array-ii](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3427-special-array-ii) |
 ## Sliding Window
 |  |
