@@ -11,7 +11,8 @@ public:
             }
             else {
                 auto it = lower_bound(lis.begin(), lis.end(), nums[i]);
-                *it = nums[i];
+                int idx = it - lis.begin();
+                lis[idx] = nums[i];
             }
         }
         return lis.size();
