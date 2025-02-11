@@ -7,8 +7,7 @@ public:
         if(dp[i][j]!=-1)return dp[i][j];
         int ans = 0;
 
-        ans = max(ans, solve(s1, s2, i+1, j, n, m));
-        ans = max(ans, solve(s1, s2, i, j+1, n, m));
+        ans = max(max(ans, solve(s1, s2, i+1, j, n, m)), max(ans, solve(s1, s2, i, j+1, n, m)));
         if(s1[i]==s2[j])ans = max(ans, 1+ solve(s1, s2, i+1, j+1, n, m));
 
         return dp[i][j] = ans;
