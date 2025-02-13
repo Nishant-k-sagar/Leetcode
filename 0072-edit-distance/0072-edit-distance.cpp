@@ -1,11 +1,11 @@
 class Solution {
 public:
     int cnt(int i, int j, string &s, string &t, vector<vector<int>> &dp){
-        if(i<0)return j+1;
-        if(j<0)return i+1;
+        if(i == 0)return j;
+        if(j == 0)return i;
 
         if(dp[i][j] != -1)return dp[i][j];
-        if(s[i] == t[j]){
+        if(s[i-1] == t[j-1]){
             return dp[i][j] = cnt(i-1, j-1, s, t, dp);
         }
         else {
@@ -17,7 +17,7 @@ public:
         int n = w1.length();
         int m = w2.length();
 
-        vector<vector<int>> dp(n, vector<int> (m , -1));
-        return cnt(n-1, m-1, w1, w2, dp);
+        vector<vector<int>> dp(n+1, vector<int> (m+1 , -1));
+        return cnt(n, m, w1, w2, dp);
     }
 };
