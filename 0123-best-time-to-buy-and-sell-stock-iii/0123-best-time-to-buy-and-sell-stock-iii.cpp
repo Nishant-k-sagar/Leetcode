@@ -6,13 +6,13 @@ public:
         if (dp[idx][lim][flag] != -1) return dp[idx][lim][flag];
 
         if (flag) {
-            dp[idx][lim][flag] = max(-p[idx] + cnt(idx + 1, lim, p, n, 0, dp), 
+            return dp[idx][lim][flag] = max(-p[idx] + cnt(idx + 1, lim, p, n, 0, dp), 
                                      cnt(idx + 1, lim, p, n, 1, dp));
         } else {
-            dp[idx][lim][flag] = max(p[idx] + cnt(idx + 1, lim - 1, p, n, 1, dp), 
+            return dp[idx][lim][flag] = max(p[idx] + cnt(idx + 1, lim - 1, p, n, 1, dp), 
                                      cnt(idx + 1, lim, p, n, 0, dp));
         }
-        return dp[idx][lim][flag];
+        // return dp[idx][lim][flag];
     }
 
     int maxProfit(vector<int>& p) {
