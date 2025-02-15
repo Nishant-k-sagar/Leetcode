@@ -1,19 +1,19 @@
 class Solution {
 public:
-    int cnt(int idx, int buy, vector<int> &p, int n, vector<vector<int>> &dp){
-        if(idx >= n) return 0;
-
-        if(dp[idx][buy] != -1)return dp[idx][buy];
-        if(buy == 1){
-            return dp[idx][buy] = max(-p[idx] + cnt(idx + 1, 0, p, n, dp), cnt(idx+1, 1, p, n, dp));
-        }
-        else return dp[idx][buy] = max(p[idx] + cnt(idx + 2, 1, p, n, dp), cnt(idx +1, 0, p, n, dp));
-    }
-
     int maxProfit(vector<int>& p) {
         int n = p.size();
+        vector<vector<int>> dp(n+2, vector<int> (2, 0));
 
-        vector<vector<int>> dp(n, vector<int> (2, -1));
-        return cnt(0, 1, p, n, dp);
+        for(int i = n-1; i>=0; i--){
+            for(int buy = 0; buy<=1; buy++){
+                if(buy == 1){
+                    dp[i][buy] = max(-p[i] + dp[i+1][0], dp[i+1][1]);
+                }
+                else {
+                    dp[i][buy] = max(p[i] + dp[i+2][1], dp[i+1][0]);
+                }
+            }
+        }
+        return dp[0][1];
     }
 };
