@@ -1,22 +1,24 @@
 class Solution {
-public:
-    int cnt(int idx, int lim, vector<int> &p, int n, int flag, vector<vector<vector<int>>> &dp) {
-        if (lim == 0 || idx == n) return 0;
-        
-        if (dp[idx][lim][flag] != -1) return dp[idx][lim][flag];
-
-        if (flag) {
-            return dp[idx][lim][flag] = max(-p[idx] + cnt(idx + 1, lim, p, n, 0, dp), 
-                                     cnt(idx + 1, lim, p, n, 1, dp));
-        } else {
-            return dp[idx][lim][flag] = max(p[idx] + cnt(idx + 1, lim - 1, p, n, 1, dp), 
-                                     cnt(idx + 1, lim, p, n, 0, dp));
-        }
-    }
-    
+public: 
     int maxProfit(int k, vector<int>& p) {
         int n = p.size();
-        vector<vector<vector<int>>> dp(n, vector<vector<int>>(k+1, vector<int>(2, -1)));
-        return cnt(0, k, p, n, 1, dp);
+
+        vector<vector<int>> after(2, vector<int> (k+1,0));
+        vector<vector<int>> cur(2, vector<int> (k+1,0));
+
+        for(int i = n-1; i >= 0; i--){
+            for(int buy = 0; buy<=1; buy++){
+                for(int cap = 1; cap<=k; cap++){
+                    if(buy == 1){
+                        cur[buy][cap] = max(-p[i] + cur[0][cap], after[1][cap]);
+                    }
+                    else {
+                        cur[buy][cap] = max(p[i] + after[1][cap-1], after[0][cap]);
+                    }
+                }
+            }
+            after = cur;
+        }
+        return cur[1][k];
     }
 };
