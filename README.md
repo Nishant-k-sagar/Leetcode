@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2716-prime-subtraction-operation](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0052-n-queens-ii](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0052-n-queens-ii) |
 | [0089-gray-code](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0089-gray-code) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Ordered Set
 |  |
 | ------- |
