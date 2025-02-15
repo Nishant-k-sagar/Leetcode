@@ -1,24 +1,19 @@
 class Solution {
 public: 
+    int cnt(int ind, int tranNo, vector<int> &p, int n, int k, vector<vector<int>> &dp){
+        if(ind == n || tranNo == 2*k) return 0;
+
+        if(dp[ind][tranNo] != -1)return dp[ind][tranNo];
+        if(tranNo%2 == 0){
+            return dp[ind][tranNo] = max(-p[ind] + cnt(ind+1, tranNo + 1,p, n, k, dp), cnt(ind+1, tranNo, p, n, k, dp));
+        }
+        return dp[ind][tranNo] = max(p[ind] + cnt(ind+1, tranNo + 1,p, n, k, dp), cnt(ind+1, tranNo, p, n, k, dp));
+    }
+
     int maxProfit(int k, vector<int>& p) {
         int n = p.size();
 
-        vector<vector<int>> after(2, vector<int> (k+1,0));
-        vector<vector<int>> cur(2, vector<int> (k+1,0));
-
-        for(int i = n-1; i >= 0; i--){
-            for(int buy = 0; buy<=1; buy++){
-                for(int cap = 1; cap<=k; cap++){
-                    if(buy == 1){
-                        cur[buy][cap] = max(-p[i] + cur[0][cap], after[1][cap]);
-                    }
-                    else {
-                        cur[buy][cap] = max(p[i] + after[1][cap-1], after[0][cap]);
-                    }
-                }
-            }
-            after = cur;
-        }
-        return cur[1][k];
+        vector<vector<int>> dp(n, vector<int> (2*k, -1));
+        return cnt(0, 0, p, n, k, dp);
     }
 };
