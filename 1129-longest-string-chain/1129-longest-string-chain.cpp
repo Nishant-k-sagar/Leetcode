@@ -7,7 +7,7 @@ public:
         int j = 0;
 
         while(i < s1.size()) {
-            if(j < s2.size() && s1[i] == s2[j]) {
+            if(s1[i] == s2[j]) {
                 i++;
                 j++;
             } else {
