@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1129-longest-string-chain](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1129-longest-string-chain) |
 | [1364-tuple-with-same-product](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0283-move-zeroes) |
 | [0941-sort-array-by-parity](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [1129-longest-string-chain](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0812-rotate-string](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0812-rotate-string) |
+| [1129-longest-string-chain](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1129-longest-string-chain) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1170-shortest-common-supersequence](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1129-longest-string-chain](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0941-sort-array-by-parity](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [1129-longest-string-chain](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -448,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0575-distribute-candies) |
+| [1129-longest-string-chain](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1129-longest-string-chain) |
 | [1364-tuple-with-same-product](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
