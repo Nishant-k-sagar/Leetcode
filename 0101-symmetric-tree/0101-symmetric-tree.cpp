@@ -10,18 +10,19 @@
  * };
  */
 class Solution {
+    public:
+    bool fun(TreeNode* l, TreeNode* r){
+        if(l == NULL && r == NULL) return true;
+        if(l == NULL || r == NULL) return false;
 
-    bool checker(TreeNode* l, TreeNode* r){
-        if(l==nullptr && r== nullptr)return true;
-        if(l==nullptr || r==nullptr)return false;
+        if(l->val != r->val) return false;
 
-        if(l->val!=r->val)return false;
-        return checker(l->left, r->right) && checker(l->right, r->left);
-
+        return fun(l->left, r->right) && fun(l->right, r->left);
     }
-public:
+
     bool isSymmetric(TreeNode* root) {
-        if(root==NULL)return true;
-        return checker(root->left, root->right);
+        if(root == NULL) return true;
+
+        return fun(root->left, root->right);
     }
 };
