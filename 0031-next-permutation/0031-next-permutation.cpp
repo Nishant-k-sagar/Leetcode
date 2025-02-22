@@ -14,18 +14,16 @@ public:
             return reverse(nums.begin(), nums.end());
         }
 
-        reverse(nums.begin()+idx1+1, nums.end());
 
-        int idx2 = -1;
 
-        for(int i = idx1; i<n; i++){
+        for(int i = n-1; i>idx1; i--){
             if(nums[i]>nums[idx1]){
-                idx2 = i;
+                swap(nums[i], nums[idx1]);
                 break;
             }
         }
 
-        swap(nums[idx1], nums[idx2]);
+      reverse(nums.begin() + idx1+1, nums.end());
         return;
     }
 };
