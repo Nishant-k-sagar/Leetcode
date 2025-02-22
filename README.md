@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0072-edit-distance) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0191-number-of-1-bits) |
