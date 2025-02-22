@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0217-contains-duplicate) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0733-flood-fill) |
