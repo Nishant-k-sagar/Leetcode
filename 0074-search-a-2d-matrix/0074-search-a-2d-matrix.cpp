@@ -6,7 +6,7 @@ public:
         int row = 0;
         int col = cols-1;
 
-        while(row<rows && col>-1){
+        while(row<rows && col>=0){
             int cur = matrix[row][col];
             if (cur == target)return true;
             if(target>cur)row++;
