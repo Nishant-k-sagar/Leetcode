@@ -11,7 +11,7 @@ public:
 
         fast= nums[0];
 
-        while(slow != fast){
+        while(!(slow == fast)){
             slow = nums[slow];
             fast = nums[fast];
         }
