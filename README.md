@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0409-longest-palindrome) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0229-majority-element-ii) |
 | [1364-tuple-with-same-product](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
