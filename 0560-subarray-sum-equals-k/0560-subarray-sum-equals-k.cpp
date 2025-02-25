@@ -11,12 +11,12 @@ public:
             // if(mp.find(sum-k)!=mp.end()){
                 cnt+=mp[sum-k];
             // }
-            if (mp.find(sum)!=mp.end()) {
-                mp[sum] = mp[sum]+1;
-            } 
-            else {
-                mp[sum] = 1;
-            }
+            // if (mp.find(sum)!=mp.end()) {
+            //     mp[sum] = mp[sum]+1;
+            // } 
+            // else {
+                mp[sum] += 1;
+            // }
 
         }
         return cnt;
