@@ -1,22 +1,47 @@
+#include<bits/stdc++.h>
+using namespace std;
+
 class MyHashSet {
 public:
-    vector<bool>vec;
+    int n;
+    vector<list<int>>vec;
+    // vector<bool>vec;
+    
+    int getIndex(int key){
+        return key % n;
+    }
 
     MyHashSet() {
-        vec.resize(1000001, false);
+        n = 15000;
+        vec = vector<list<int>>(n, list<int>{});
     }
     
     void add(int key) {
-        vec[key] = true;
+        int idx = getIndex(key);
+
+        auto it = find(vec[idx].begin(), vec[idx].end(), key);
+
+        if(it == vec[idx].end()){
+            vec[idx].push_back(key);
+        }
     }
     
     void remove(int key) {
-        vec[key] = false;
+        int idx = getIndex(key);
+
+        auto it = find(vec[idx].begin(), vec[idx].end(), key);
+
+        if(it != vec[idx].end()){
+            vec[idx].erase(it);
+        }
     }
     
     bool contains(int key) {
-        if(vec[key])return true;
-        else return false;
+        int idx = getIndex(key);
+
+        auto it = find(vec[idx].begin(), vec[idx].end(), key);
+
+        return it != vec[idx].end();
     }
 };
 
