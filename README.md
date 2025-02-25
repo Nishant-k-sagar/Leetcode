@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
