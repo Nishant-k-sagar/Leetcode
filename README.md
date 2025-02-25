@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3447-clear-digits) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2868-continuous-subarrays](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Heap (Priority Queue)
 |  |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0898-transpose-matrix) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
