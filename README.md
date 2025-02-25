@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0787-sliding-puzzle) |
+| [0816-design-hashset](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0816-design-hashset) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0898-transpose-matrix](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0816-design-hashset](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0816-design-hashset) |
 ## Sorting
 |  |
 | ------- |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0575-distribute-candies) |
+| [0816-design-hashset](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0816-design-hashset) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1129-longest-string-chain) |
 | [1364-tuple-with-same-product](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -714,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0816-design-hashset](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0816-design-hashset) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Topological Sort
 |  |
@@ -723,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0816-design-hashset](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0816-design-hashset) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2434-design-a-number-container-system) |
