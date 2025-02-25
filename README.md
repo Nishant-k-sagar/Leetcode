@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0506-relative-ranks](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0605-can-place-flowers) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0506-relative-ranks](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0506-relative-ranks) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0941-sort-array-by-parity](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0506-relative-ranks) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2434-design-a-number-container-system](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2434-design-a-number-container-system) |
