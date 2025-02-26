@@ -2,6 +2,7 @@ class Solution {
 public:
     string reverseVowels(string s) {
         int n = s.size();
+
         int i = 0, j = n - 1;
 
         while (i < j) {
@@ -10,12 +11,13 @@ public:
                 s[i] != 'O' && s[i] != 'U') {
                 i++;
             }
-            else if (s[j] != 'a' && s[j] != 'e' && s[j] != 'i' && s[j] != 'o' &&
-                     s[j] != 'u' && s[j] != 'A' && s[j] != 'E' && s[j] != 'I' &&
-                     s[j] != 'O' && s[j] != 'U') {
+            else if (s[j] != 'a' && s[j] != 'e' &&
+                s[j] != 'i' && s[j] != 'o' &&
+                s[j] != 'u' && s[j] != 'A' &&
+                s[j] != 'E' && s[j] != 'I' &&
+                s[j] != 'O' && s[j] != 'U') {
                 j--;
-            }
-            else {
+            } else{
                 swap(s[i], s[j]);
                 i++;
                 j--;
