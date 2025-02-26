@@ -32,7 +32,7 @@ public:
             l1 = (l1!=nullptr)?l1->next:nullptr;
             l2 = (l2!=nullptr)?l2->next:nullptr;
         }
-        ListNode* res = temp->next;
-        return res;
+        
+        return temp->next;
     }
 };
