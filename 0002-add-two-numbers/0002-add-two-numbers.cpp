@@ -16,7 +16,7 @@ public:
 
         int carry = 0;
 
-        while(l1 !=nullptr || l2!=nullptr ||carry!=0){
+        while(l1 !=nullptr || l2!=nullptr ||carry){
             int dig1 = (l1!=nullptr)?l1->val:0;
             int dig2 = (l2!=nullptr)?l2->val:0;
 
