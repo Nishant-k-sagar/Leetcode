@@ -14,17 +14,21 @@ public:
         ListNode* fast = head;
         ListNode* slow = head;
 
-        for(int i=0; i<n; i++){
+        int i=0;
+        while(i<n){
             fast = fast->next;
+            i++;
         }
-        if(fast==NULL)return head->next;
 
-        while(fast->next != NULL){
-            fast = fast->next;
+        if(fast == NULL)return head->next;
+
+        while(fast->next!=NULL){
             slow = slow->next;
+            fast = fast->next;
         }
-        
+        ListNode *temp = slow->next;
         slow->next = slow->next->next;
+        delete temp;
         return head;
     }
 };
