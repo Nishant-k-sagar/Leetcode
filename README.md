@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0268-missing-number) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0338-counting-bits) |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1013-fibonacci-number) |
 ## Enumeration
