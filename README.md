@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [0966-binary-subarrays-with-sum](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1036-rotting-oranges) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0575-distribute-candies) |
 | [0816-design-hashset](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0816-design-hashset) |
+| [0966-binary-subarrays-with-sum](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1129-longest-string-chain) |
 | [1364-tuple-with-same-product](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1755-defuse-the-bomb](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
