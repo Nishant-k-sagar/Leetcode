@@ -5,12 +5,10 @@ public:
 
         int cnt = 0;
 
-        while(ans>0){
-
-            if(ans&1){
+        for(int i=0; i<32; i++){
+            if(ans & (1<<i)){
                 cnt++;
             }
-            ans = ans>>1;
         }
         return cnt;
     }
