@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3427-special-array-ii](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3427-special-array-ii) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3394-minimum-array-end](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3394-minimum-array-end) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
 |  |
 | ------- |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Counting
 |  |
