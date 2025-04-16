@@ -11,50 +11,20 @@
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
-        ListNode* temp = head;
+        if(head == NULL || head->next == NULL)return head;
+        ListNode* odd = head;
+        ListNode* even = head->next;
+        ListNode* headEven = head->next;
 
-        vector<int> values;
 
-        //for 1..3..5..7 etc
+        while(even != NULL && even->next != NULL){
+            odd->next = odd->next->next;
+            even->next = even->next->next;
 
-        if(temp == NULL || temp->next == NULL)return head;
-
-        while(temp!=NULL && temp->next != NULL){
-            values.push_back(temp->val);
-            temp = temp->next->next;
+            odd = odd->next;
+            even = even->next;
         }
-
-        if(temp){
-            values.push_back(temp->val);
-        }
-
-        temp = head->next;
-
-        //for 2..4..6..8 etc
-
-        while(temp!=NULL && temp->next != NULL){
-            values.push_back(temp->val);
-            temp = temp->next->next;
-        }
-
-        if(temp){
-            values.push_back(temp->val);
-        }
-
-        for
-        (int i=0; i<values.size(); i++){
-            cout<<values[i]<<" ";
-        }
-
-        int idx = 0;
-
-        temp = head;
-
-        while(temp!=NULL){
-            temp->val = values[idx++];
-            temp = temp->next;
-        }
-
+        odd->next = headEven;
         return head;
     }
 };
