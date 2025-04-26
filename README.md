@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2716-prime-subtraction-operation](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2716-prime-subtraction-operation) |
