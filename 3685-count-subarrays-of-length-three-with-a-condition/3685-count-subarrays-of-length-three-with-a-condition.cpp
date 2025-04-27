@@ -1,12 +1,20 @@
 class Solution {
 public:
     int countSubarrays(vector<int>& nums) {
-        int n = nums.size();
+        int l = 0;
+        int r = 2;
 
+        int n =nums.size();
+
+        if(n<=2){
+            return 0;
+        }
+        
         int cnt = 0;
-
-        for(int i=1; i<n-1; i++){
-            if((nums[i-1] + nums[i+1])*2 == nums[i])cnt++;
+        while(r<n){
+            if((nums[l] + nums[r])*2 == nums[l+1])cnt++;
+            l++;
+            r++;
         }
         return cnt;
     }
