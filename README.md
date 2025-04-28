@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [3427-special-array-ii](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3427-special-array-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -658,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1755-defuse-the-bomb](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2868-continuous-subarrays) |
