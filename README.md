@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3442-maximum-total-reward-using-operations-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
+| [3442-maximum-total-reward-using-operations-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3587-maximum-points-tourist-can-earn) |
 ## Memoization
 |  |
