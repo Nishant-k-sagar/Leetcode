@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1500-count-largest-group) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2448-count-number-of-bad-pairs](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1500-count-largest-group](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1500-count-largest-group) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
