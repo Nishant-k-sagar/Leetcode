@@ -8,7 +8,7 @@ public:
         for(int i=0; i<n; i++){
             int dig = log10(nums[i]) + 1;
             // cout<<dig<<" ";
-            cnt += !(dig&1);
+            cnt += (dig&1) == 1 ? 0 : 1;
         }
         return cnt;
     }
