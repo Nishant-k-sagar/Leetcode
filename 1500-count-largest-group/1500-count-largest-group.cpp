@@ -12,7 +12,7 @@ public:
                 sum+= s[i] - '0';
             }
 
-            cout<<sum<<" ";
+            // cout<<sum<<" ";
 
             mp[sum]++;
             n--;
