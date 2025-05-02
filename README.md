@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0868-push-dominoes](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0812-rotate-string](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0868-push-dominoes) |
 | [1129-longest-string-chain](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1129-longest-string-chain) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1170-shortest-common-supersequence](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0868-push-dominoes](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1063-best-sightseeing-pair) |
