@@ -3,16 +3,22 @@ public:
     int countGoodSubstrings(string s) {
         int n = s.length();
 
+        int left = 0;
+        int right = 0;
         int cnt = 0;
 
-        for(int i=0; i<=n - 3; i++){
-        set<char> st;
-            for(int j=i; j<i+3; j++){
-                st.insert(s[j]);
-            }
-            if(st.size() == 3)cnt++;
-        }
+        while(right < n){
+            right++;
+            set<int> st;
+            if(right - left == 3){
+                for(int i = left; i<right; i++){
+                    st.insert(s[i]);
+                }
 
+                if(st.size() == 3)cnt++;
+                left++;
+            }
+        }
         return cnt;
     }
 };
