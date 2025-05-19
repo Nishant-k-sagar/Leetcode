@@ -1,46 +1,34 @@
 class Solution {
 public:
     vector<vector<int>> updateMatrix(vector<vector<int>>& grid) {
-        int n = grid.size();
-        int m = grid[0].size();
+        int n = grid.size(), m = grid[0].size();
         
-        vector<vector<int>> vis (n, vector<int> (m, 0));
-        vector<vector<int>> dist(n, vector<int> (m, 0));
-        
-        //((r,c), steps)
-        
+        vector<vector<int>> vis(n, vector<int>(m, 0)), dist(n, vector<int>(m, 0));
         queue<pair<pair<int, int>, int>> q;
-        
-        //make initial vis arr and do bfs from there i.e. push in queue
-        for(int i=0; i<n; i++){
-            for(int j=0; j<m; j++)
-            if(grid[i][j] == 0){
-                q.push({{i, j}, 0}); //initial steps = 0 from 1 to 1 itself
-                vis[i][j] = 1;
-                //q.push({{r, c}, steps});
+
+        // Push all 0s into the queue for BFS start
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (grid[i][j] == 0) {
+                    q.push({{i, j}, 0});
+                    vis[i][j] = 1; // Mark 0s as visited
+                }
             }
-            else vis[i][j] = 0;
         }
         
+        int delRow[] = {-1, 0, 1, 0}, delCol[] = {0, 1, 0, -1};
         
-        int delRow[] = {-1, 0, 1, 0};
-        int delCol[] = {0, 1, 0, -1};
-        
-        //bfs
-        while(!q.empty()){
-            int r = q.front().first.first;
-            int c = q.front().first.second;
-            int steps = q.front().second;
-            
+        // BFS
+        while (!q.empty()) {
+            int r = q.front().first.first, c = q.front().first.second, steps = q.front().second;
             q.pop();
+            dist[r][c] = steps; // Update distance
             
-            dist[r][c] = steps;
             
-            for(int i=0; i<4; i++){
-                int nrow = r + delRow[i];
-                int ncol = c + delCol[i];
-                
-                if(nrow<n && nrow>=0 && ncol<m && ncol>=0 && vis[nrow][ncol] == 0){
+            for (int i = 0; i < 4; i++) {
+                int nrow = r + delRow[i], ncol = c + delCol[i];
+                // Add valid, unvisited neighbors to the queue, check boundary conditions
+                if (nrow >= 0 && nrow < n && ncol >= 0 && ncol < m && vis[nrow][ncol] == 0) {
                     vis[nrow][ncol] = 1;
                     q.push({{nrow, ncol}, steps + 1});
                 }
