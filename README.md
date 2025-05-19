@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1073-number-of-enclaves](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1129-longest-string-chain](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1129-longest-string-chain) |
 | [1137-height-checker](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1137-height-checker) |
 | [1306-minimum-absolute-difference](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1306-minimum-absolute-difference) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -783,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0898-transpose-matrix](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -830,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Backtracking
