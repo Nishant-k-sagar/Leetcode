@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0242-valid-anagram) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0200-number-of-islands) |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0169-majority-element) |
