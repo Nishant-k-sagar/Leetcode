@@ -1,47 +1,46 @@
 class Solution {
 public:
-    bool topologicalSortCheck(unordered_map<int, vector<int>> &adj, int n, vector<int> &indegree){
-        queue<int> que;
+    bool canFinish(int n, vector<vector<int>>& prereq) {
+        vector<vector<int>> adj(n);
 
-        int cnt = 0;
+        for(auto it : prereq){
+            int a = it[0];
+            int b = it[1];
+            adj[b].push_back(a);
+        }
 
-        for(int i = 0; i < n; i++){
-            if(indegree[i] == 0){
-                cnt++;
-                que.push(i);
+        vector<int> indegree(n, 0);
+
+        for(int i=0; i<n; i++){
+            for(auto it : adj[i]){
+                indegree[it]++;
             }
         }
 
-        while(!que.empty()){
-            int u = que.front();
-            que.pop();
+        queue<int> q;
 
-            for(int &v : adj[u]){
-                indegree[v]--;
+        for(int i=0; i<n; i++){
+            if(indegree[i] == 0){
+                q.push(i);
+            }
+        }
 
-                if(indegree[v] == 0){
-                    cnt++;
-                    que.push(v);
+        vector<int> ans;
+
+        while(!q.empty()){
+            int node = q.front();
+            q.pop();
+            ans.push_back(node);
+            
+            for(auto it : adj[node]){
+                indegree[it]--;
+
+                if(indegree[it] == 0){
+                    q.push(it);
                 }
             }
         }
-        if(cnt == n) return true;
-        return false;
-    }
 
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        unordered_map<int, vector<int>> adj;
-        vector<int> indegree(numCourses, 0);
-
-        for(auto &it : prerequisites){
-            int a = it[0];
-            int b = it[1];
-
-            adj[b].push_back(a);
-
-            indegree[a]++;
-        }
-
-        return topologicalSortCheck(adj, numCourses, indegree);
+        return ans.size() == n;
     }
 };
