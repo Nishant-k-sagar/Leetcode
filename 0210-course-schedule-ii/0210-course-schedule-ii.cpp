@@ -5,15 +5,15 @@ bool dfs(int node, vector<int> &vis, stack<int> &st, vector<vector<int>> &adj, v
         
         for(auto it : adj[node]){
             if(!vis[it]){
-                if(!dfs(it, vis, st, adj, onPath))return false;
+                if(dfs(it, vis, st, adj, onPath))return true;
             }
             else if (onPath[it]){
-                return false;
+                return true;
             }
         }
         onPath[node] = 0;
         st.push(node);
-        return true;
+        return false;
     }
 
 public:
@@ -33,7 +33,7 @@ public:
         
         for(int i=0; i<V; i++){
             if(!vis[i]){
-                if(!dfs(i, vis, st ,adj, onPath)) return {};
+                if(dfs(i, vis, st ,adj, onPath)) return {};
             }
         }
         
