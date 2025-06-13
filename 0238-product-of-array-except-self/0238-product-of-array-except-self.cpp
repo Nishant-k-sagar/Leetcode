@@ -5,7 +5,7 @@ public:
 
         int left = 1;
         for(int i = 0; i<nums.size(); i++){
-            ans[i] *= left;
+            ans[i] = left;
             left *=nums[i];
         }
 
