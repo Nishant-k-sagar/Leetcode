@@ -4,6 +4,8 @@ public:
         int n = nums.size();
         sort(nums.begin(), nums.end());
 
+        //{1, 2, 3, 5, 6}
+
         int cnt = 1;
 
         int first = nums[0];
