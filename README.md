@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0485-max-consecutive-ones](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0506-relative-ranks) |
