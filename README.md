@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3451-string-compression-iii) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3617-find-the-original-typed-string-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## String Matching
 |  |
 | ------- |
