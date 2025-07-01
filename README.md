@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1894-merge-strings-alternately](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3447-clear-digits) |
 ## Tree
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1652-minimum-suffix-flips](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1652-minimum-suffix-flips) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
