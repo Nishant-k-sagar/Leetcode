@@ -1,17 +1,12 @@
 class Solution {
 public:
     string finalString(string s) {
-        int n = s.size();
+        string res;
 
-        for(int i=0; i<n; i++){
-            if(s[i] == 'i'){
-                reverse(s.begin(), s.begin() + i);
-            }
+        for(char ch : s){
+            if(ch == 'i')reverse(res.begin(), res.end());
+            else res+=ch;
         }
-        string ans;
-        for(int i=0; i<n; i++){
-            if(s[i] != 'i')ans+=s[i];
-        }
-        return ans;
+        return res;
     }
 };
