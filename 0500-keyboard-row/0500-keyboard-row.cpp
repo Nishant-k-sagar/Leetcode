@@ -10,13 +10,11 @@ public:
             for (int j = 0; j < 3; j++) {
                 bool flag = true;
                 for (int k = 0; k < sz; k++) {
-                    char ch = tolower(words[i][k]);
-                    if (arr[j].find(ch) == string::npos) {
+                    if(arr[j].find(tolower(words[i][k])) == string :: npos){
                         flag = false;
-                        break;
                     }
                 }
-                if (flag) {
+                if(flag){
                     ans.push_back(words[i]);
                     break;
                 }
