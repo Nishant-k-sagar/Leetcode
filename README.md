@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3442-maximum-total-reward-using-operations-i) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -744,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [3427-special-array-ii](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3427-special-array-ii) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Sliding Window
 |  |
@@ -840,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3587-maximum-points-tourist-can-earn) |
 ## Simulation
 |  |
