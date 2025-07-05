@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2107-find-unique-binary-string](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2159-two-out-of-three](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2159-two-out-of-three) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0461-hamming-distance) |
 | [1940-maximum-xor-for-each-query](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2159-two-out-of-three](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2159-two-out-of-three) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Nishant-k-sagar/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -709,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Nishant-k-sagar/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2159-two-out-of-three](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2159-two-out-of-three) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2434-design-a-number-container-system](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Nishant-k-sagar/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
