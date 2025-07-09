@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0058-length-of-last-word) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0053-maximum-subarray) |
@@ -938,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0022-generate-parentheses) |
 | [0052-n-queens-ii](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Nishant-k-sagar/Leetcode/tree/master/0089-gray-code) |
